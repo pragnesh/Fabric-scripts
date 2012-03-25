@@ -1,0 +1,1 @@
+First script is a server setup script, allowing to create a basic environment (postgresql + nginx + postfix + git) easily
